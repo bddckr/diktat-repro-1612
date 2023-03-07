@@ -1,0 +1,4 @@
+[plugins]
+diktat = "org.cqfn.diktat.diktat-gradle-plugin:1.2.4.2"
+kotlinJvm = "org.jetbrains.kotlin.jvm:1.8.10"
+spotless = "com.diffplug.spotless:6.16.0"
